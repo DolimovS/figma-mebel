@@ -74,7 +74,7 @@ let products = [
     },
 ]
 
-products=JSON.parse(localStorage.getItem("list"))
+// products=JSON.parse(localStorage.getItem("list"))
 
 const cards=document.querySelector(".cards")
 
